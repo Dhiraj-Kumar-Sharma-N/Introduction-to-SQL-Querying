@@ -1,5 +1,7 @@
 use [AdventureWorks2012]
 
+====
+
 --
 SELECT * FROM [HumanResources].[Department]
 
